@@ -46,3 +46,19 @@ cd repositorio-com-readme
   <a href = "mailto:rocha.eng.eletrica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otto-rocha-82a8191a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+## Hi there 👋
+
+**rochaotto/rochaotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 📫 How to reach me: links below! ⬇️
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning learning front-end and back-end technologies e.g. HTML5, CSS3, JS, JAVA, SPRING. But, focused on front-end and java
+- 👯 I’m looking to collaborate on ...
+- 🤔 I am looking to collaborate in development teams, in order to gain experience and learning.
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
